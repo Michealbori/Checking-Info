@@ -1,0 +1,55 @@
+#error{
+    color: red;
+    font-size: 1.2em;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.login{
+    color: goldenrod;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#mybg{
+ color: antiquewhite;
+ font-family: "Millik",sans-serif;
+    background: rgb(224, 21, 21);
+    border: 3px solid black;
+    width: 90%;
+  
+    margin-top: 5em;
+}
+.rights{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: italic;
+color: black;
+font-size: 1em;
+}
+.rights a{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: italic;
+background-image: -webkit-linear-gradient(red, #333);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-size: 1em;
+}
+
+@media screen and (max-width:37.5em) {
+  .rights{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: #fc210d;
+    font-size: 0.8em;
+    }
+    .rights a{
+        text-decoration: none;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: seagreen;
+    font-size: 1em;
+    }
+}
+
+  
